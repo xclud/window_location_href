@@ -1,0 +1,11 @@
+name: window_location_href
+description: Cross-platfrom window.location.href.
+version: 0.0.2
+homepage: https://github.com/xclud/window_location_href
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

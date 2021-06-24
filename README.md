@@ -1,5 +1,6 @@
 # window_location_href
 [![pub package](https://img.shields.io/pub/v/window_location_href.svg)](https://pub.dartlang.org/packages/window_location_href)
+
 A cross-platfrom implementation of `window.location.href`.
 
 ## Supported platforms

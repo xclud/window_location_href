@@ -1,3 +1,3 @@
-String getHref() {
+String? getHref() {
   return null;
 }

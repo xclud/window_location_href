@@ -1,5 +1,5 @@
 import 'dart:html';
 
-String getHref() {
+String? getHref() {
   return window.location.href;
 }

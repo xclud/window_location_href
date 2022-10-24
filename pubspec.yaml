@@ -1,6 +1,6 @@
 name: window_location_href
 description: Cross-platfrom window.location.href. Supports all platforms and is easy.
-version: 1.0.1+1
+version: 1.0.1+2
 homepage: https://pwa.ir
 repository: https://github.com/xclud/window_location_href
 

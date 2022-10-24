@@ -10,6 +10,7 @@ A cross-platfrom implementation of `window.location.href` & `window.navigator.us
 * Flutter Desktop
 
 ## Getting Started
+
 In your `pubspec.yaml` file add:
 
 ``` dart

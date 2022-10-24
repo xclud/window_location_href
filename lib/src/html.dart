@@ -2,6 +2,12 @@ import 'dart:html';
 import 'platform.dart';
 
 /// Gets `window.location.href` on web, `null` on other platforms.
+@Deprecated('Please use `href`')
+String? get getHref {
+  return window.location.href;
+}
+
+/// Gets `window.location.href` on web, `null` on other platforms.
 String? get href {
   return window.location.href;
 }

@@ -6,10 +6,12 @@ String? get href {
   return null;
 }
 
+/// Gets `window.navigator.userAgent` on web, `null` on other platforms.
 String? get userAgent {
   return null;
 }
 
+/// Gets the platform type.
 Platform get platform {
   if (io.Platform.isAndroid) {
     return Platform.android;

@@ -1,6 +1,6 @@
-## [1.0.1]
+## [1.0.1+1]
 
-* Initial & null-safety version.
+* href, userAgent and platform.
 
 ## [1.0.0]
 
